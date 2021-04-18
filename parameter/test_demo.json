@@ -1,0 +1,28 @@
+{
+  "接口调用成功": {
+    "req": {
+      "token": "_oSEaZjbQ3DIzqcLJ80OXwCA8wcAAAAARg0AADsd2eC9lwMobPzrTzcLdOglOIOBEj32wuG9zZDEJZcSnywf4-IjlELHjP7GU6Dwlg"
+    },
+    "rep": {
+      "status": "success",
+      "data": {
+        "name": "**玲",
+        "identityNo": "14**************20"
+      }
+    },
+    "result": 2
+  },
+  "token错误": {
+    "req": {
+      "token": "obP"
+    },
+    "rep": {
+      "status": "success",
+      "data": {
+        "name": "*",
+        "identityNo": "14**************20"
+      }
+    },
+    "result": 1
+  }
+}

@@ -1,0 +1,52 @@
+languages:
+ - Ruby
+ - Perl
+ - Python
+登录成功:
+ status: success
+ data:
+  name: '**玲'
+  identityNo: '14**************20'
+  identityType: 1
+  pageTip: 请输入支付密码
+  subPageTip: null
+  idPhotoStatus: SUCCESS,
+  cancelAlert:
+    leftContent: 暂不注销,
+    rightContent: 确认注销,
+    content: 注销实名认证后, 将解绑您在美团绑定的银行卡, 是否确认注销?
+
+
+
+# {
+#	"status": "success",
+#	"data": {
+#		"name": "**玲",
+#		"identityNo": "14**************20",
+#		"identityType": 1,
+#		"pageTip": "请输入支付密码",
+#		"subPageTip": null,
+#		"idPhotoStatus": "SUCCESS",
+#		"cancelAlert": {
+#			"leftContent": "暂不注销",
+#			"rightContent": "确认注销",
+#			"content": "注销实名认证后, 将解绑您在美团绑定的银行卡, 是否确认注销?"
+#		},
+#		"promote": {
+#			"continue": 1,
+#			"status": 0
+#		},
+#		"chooseJobNum": -1,
+#		"jobList": {
+#			"99": "其他",
+#			"1": "党政机关人员",
+#			"2": "企事业单位工作人员",
+#			"3": "商业及服务业工作人员",
+#			"4": "农林牧渔劳动者",
+#			"5": "学生",
+#			"6": "军人",
+#			"7": "无业"
+#		},
+#		"validEndDate": "2026-08-03"
+#	}
+#}
